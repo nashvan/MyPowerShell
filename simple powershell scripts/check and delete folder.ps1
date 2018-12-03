@@ -5,7 +5,7 @@ This is to delete folder
 
 NOTES
   Version:        0.1
-  Author:         Nashwan Mustafa (Enterprise Systems Monitoring Team)
+  Author:         Nashwan Mustafa (Cloud Team)
   Creation Date:  05/04/2018
   Purpose: Initial script development
 
